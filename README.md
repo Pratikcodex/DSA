@@ -1,6 +1,6 @@
 
 # Hi, I'm Pratik! 👋
-<h3> Day 2 </h3>
+<h3> Day 1 </h3>
 
 
 
